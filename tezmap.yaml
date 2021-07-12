@@ -1,0 +1,143 @@
+# A Tezos ecosystem map written in yaml to be easily supported and updated by the community.
+
+---
+
+# Wallets built on and for tezos
+
+Wallets:
+  -Kukai:
+    this-info-last-updated:
+    description:
+    url: https://wallet.kukai.app/
+    community:
+      -telegram: https://t.me/kukaiwallet
+      -twitter: https://twitter.com/KukaiWallet/
+    git: https://github.com/kukai-wallet/kukai
+    version:
+    platform:
+      -Browser: ["client-side"]
+  -Temple:
+    this-info-last-updated:
+    description:
+    url: https://templewallet.com/
+    community:
+      -telegram:
+      -twitter:
+    git:
+    version: 1.11.3
+    platform: 
+      -Browser: ["extension"]
+  -Galleon:
+    this-info-last-updated:
+    description:
+    url: https://cryptonomic.tech/galleon.html
+    version:
+    platform:
+      -Desktop: ["windows", "linux", "macos"]
+      -Mobile: ["ios"]
+
+# Explorers and Analytics
+
+Explorers-and-Analytics:
+  -Tzstats:
+    this-info-last-updated:
+    description:
+    url: https://tzstats.com/
+    community:
+      -discord: https://discord.com/invite/D5e98Hw
+      -twitter: https://twitter.com/tzstats
+    git: https://github.com/blockwatch-cc/tzstats
+    version:
+    platform:
+      -Browser: ["server-side"] 
+  -Tzkt:
+    this-info-last-updated:
+    description:
+    url: https://tzkt.io/
+    community:
+      -telegram:
+      -twitter:
+    git:
+    version:
+    platform:
+      -Browser: ["server-side"] 
+  -Tzflow:
+    this-info-last-updated:
+    description:
+    url: https://tzflow.com/
+    community:
+      -telegram:
+      -twitter:
+    git:
+    version:
+    platform:
+      -Browser: ["server-side"] 
+      
+# Dex's and defi platforms
+
+Decentralized-Exchanges-and-defi-platforms:
+  -Quipuswap:
+    this-info-last-updated:
+    description:
+    url: https://quipuswap.com/swap
+    community:
+      -telegram:
+      -twitter:
+    git:
+    version:
+    platform:
+  -Crunchy:
+    this-info-last-updated:
+    description:
+    url: https://crunchy.network/
+    community:
+      -telegram:
+      -twitter:
+    git:
+    version:
+    platform:
+  -Dexter:
+    this-info-last-updated:
+    description:
+    url: https://dexter.exchange/
+    community:
+      -telegram:
+      -twitter:
+    git:
+    version:
+    platform:
+ 
+# NFT platforms
+
+NFT-platforms:
+  -HEN:
+    this-info-last-updated:
+    description:
+    url: https://www.hicetnunc.xyz/
+    community:
+      -telegram:
+      -twitter:
+    git:
+    version:
+    platform:
+  -Kalamint:
+    this-info-last-updated:
+    description:
+    url: https://kalamint.io/ 
+    community:
+      -telegram:
+      -twitter:
+    git:
+    version:
+    platform:
+  -Radion:
+    this-info-last-updated:
+    description:
+    url: https://www.radion.fm/
+    community:
+      -telegram:
+      -twitter:
+    git:
+    version:
+    platform:
+    
